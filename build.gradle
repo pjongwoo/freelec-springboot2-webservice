@@ -36,5 +36,6 @@ dependencies {
 //    세션 저장소로 데이터베이스 사용하기 오류 P200
 //    compile('org.springframework.session:spring-session-jdbc')
     testCompile('org.springframework.boot:spring-boot-starter-test')
+    testCompile('org.springframework.security:spring-security-test')
 //    testCompile group: 'junit', name: 'junit', version: '4.12'
 }
